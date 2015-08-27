@@ -1,9 +1,9 @@
 [MySQL]
-user = XXXX
-password = XXXX
-host = XXXX
-port = XXXX
-database = XXXX
+user = root
+password = shashank#123
+host = localhost
+port = 3306
+database = user-timeline-test
 
 [files]
 logfile = /path/to/file.log
@@ -11,7 +11,7 @@ listfile = /path/to/file.txt
 outfolder = /path/to/folder/
 
 [twitter]
-consumer_key = XXXX
+consumer_key = TS0EyJeoqGxgp2WAYT5R1QrafqUsS0sj3QVTq8rUpMUVTK11yYVwv8H3ba2hxIswbP92XFe7AS3
 consumer_secret = XXXX
 access_token = XXXX
 access_token_secret = XXXX
